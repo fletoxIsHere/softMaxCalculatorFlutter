@@ -1,16 +1,6 @@
 # softmax
 
-A new Flutter project.
+this project help you to calculed softMax
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-12-16 à 14 33 32_3d65c429](https://github.com/fletoxIsHere/softMaxCalculatorFlutter/assets/106785467/24e8143d-dc0f-41d1-83af-a9e5250d42a7)
